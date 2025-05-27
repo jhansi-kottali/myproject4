@@ -1,1 +1,2 @@
-hello Git 
+hello Git
+its me using git bash with connecting git hub and im learning full stack java 
